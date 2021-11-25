@@ -1,4 +1,5 @@
 ﻿using System;
+using Logger.Helper;
 using Logger.Models;
 using Logger.Services.Abstractions;
 
